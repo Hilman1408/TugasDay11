@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Redesigb</string>
+    <string name="title_home">Home</string>
+    <string name="title_like">Like</string>
+    <string name="title_post">Post</string>
+    <string name="title_profil">Profil</string>
+    <string name="title_search">Search</string>
+    <string name="search1">Search</string>
+    <string name="postingan">Postingan</string>
+    <string name="like">Like</string>
+    <string name="post">Post</string>
+    <string name="search">Search</string>
+</resources>
